@@ -1,0 +1,9 @@
+{
+  "@@locale": "zh",
+  "appTitle": "你好",
+  "welcomeMessage": "歡迎回來",
+  "counterText": "你已經點了這個按鈕多少次：",
+    "email" : "email",
+  "password" : "password",
+  "login":"登入"
+}

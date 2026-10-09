@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "appTitle": "hello",
+  "welcomeMessage": "Welcome Back",
+  "counterText": "You have pushed the button this many times:",
+  "email" : "email",
+  "password" : "password",
+  "login":"login"
+}
